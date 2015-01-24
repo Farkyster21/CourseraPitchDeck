@@ -92,5 +92,3 @@ The right panel will first show you what you've initally entered, then below tha
 
 
 **Easy as that! Thanks for listening, and good luck with the rest of the course!**
-
---- .class #id 
